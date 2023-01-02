@@ -1,0 +1,14 @@
+{
+"config":[
+    {
+        "monitor_width": "1920",
+        "monitor_height": "1080",
+		"your_sens": "0.4",
+		"delay_recoil": "250",
+		"click_spam": "0.215",
+		"smoothX": "0.12",
+		"smoothY": "0.12",
+		"fov": "40"
+    }
+]
+}
