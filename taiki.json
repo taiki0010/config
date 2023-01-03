@@ -9,7 +9,8 @@
 		"smoothX": "0.4",
 		"smoothY": "0.4",
 		"fovx": "40",
-	    	"fovy": "40"
+	    	"fovy": "40",
+	        "comport": "COM4"
     }
 ]
 }
