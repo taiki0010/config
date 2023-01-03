@@ -10,7 +10,7 @@
 		"fovx": "40",
 	    	"fovy": "40",
 	        "comport": "COM4",
-	        "colorval": "(np.array([140, 70, 204]), np.array([150, 255, 255])"
+	        "colorval": "((np.array([140, 70, 204]), np.array([150, 255, 255])),"
     }
 ]
 }
