@@ -6,8 +6,8 @@
 		"your_sens": "0.4",
 		"delay_recoil": "250",
 		"click_spam": "0.215",
-		"smoothX": "1",
-		"smoothY": "1",
+		"smoothX": "0.5",
+		"smoothY": "0.5",
 		"fov": "40"
     }
 ]
