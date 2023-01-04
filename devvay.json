@@ -6,8 +6,8 @@
 		"your_sens": "0.32",
 		"delay_recoil": "180",
 		"click_spam": "0.215",
-		"smoothX": "0.29",
-		"smoothY": "0.4",
+		"smoothX": "0.26",
+		"smoothY": "0.26",
 		"fovx": "40",
 	    "fovy": "40",
 		"comport": "COM5"
