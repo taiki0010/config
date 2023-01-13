@@ -1,7 +1,7 @@
 {
 "config":[
     {
-        "monitor_width": "1920",
+        "monitor_width": "1440",
         "monitor_height": "1080",
 		"your_sens": "0.317",
 		"delay_recoil": "180",
