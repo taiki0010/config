@@ -3,14 +3,14 @@
     {
         "monitor_width": "1920",
         "monitor_height": "1080",
-		"your_sens": "0.35",
+		"your_sens": "0.273",
 		"delay_recoil": "180",
 		"click_spam": "0.215",
-		"smoothX": "0.4",
-		"smoothY": "0.4",
+		"smoothX": "0.27",
+		"smoothY": "0.27",
 		"fovx": "40",
 	    "fovy": "40",
-		"comport": "COM4"
+		"comport": "COM5"
     }
 ]
 }
