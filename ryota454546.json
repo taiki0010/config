@@ -1,16 +1,16 @@
 {
 "config":[
     {
-        "monitor_width": "1920",
-        "monitor_height": "1080",
-		"your_sens": "0.35",
+        "monitor_width": "1680",
+        "monitor_height": "1050",
+		"your_sens": "0.264",
 		"delay_recoil": "180",
 		"click_spam": "0.215",
-		"smoothX": "0.4",
-		"smoothY": "0.4",
+		"smoothX": "0.25",
+		"smoothY": "0.25",
 		"fovx": "40",
 	    "fovy": "40",
-		"comport": "COM4"
+		"comport": "COM5"
     }
 ]
 }
