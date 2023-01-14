@@ -8,8 +8,8 @@
 		"click_spam": "0.215",
 		"smoothX": "0.32",
 		"smoothY": "0.32",
-		"fovx": "25",
-	    "fovy": "25",
+		"fovx": "30",
+	    "fovy": "30",
 		"comport": "COM5"
     }
 ]
