@@ -1,8 +1,8 @@
 {
 "config":[
     {
-        "monitor_width": "1280",
-        "monitor_height": "1024",
+        "monitor_width": "1920",
+        "monitor_height": "1080",
 		"your_sens": "0.1",
 		"delay_recoil": "180",
 		"click_spam": "0.215",
