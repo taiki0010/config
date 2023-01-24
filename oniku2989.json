@@ -3,10 +3,10 @@
     {
         "monitor_width": "1392",
         "monitor_height": "960",
-		"your_sens": "0.25",
+		"your_sens": "0.33",
 		"delay_recoil": "180",
 		"click_spam": "0.215",
-		"smoothX": "0.25",
+		"smoothX": "0.3",
 		"smoothY": "0.18",
 		"fovx": "25",
 	    "fovy": "25",
