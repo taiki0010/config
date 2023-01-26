@@ -6,10 +6,10 @@
 		"your_sens": "0.32",
 		"delay_recoil": "180",
 		"click_spam": "0.215",
-		"smoothX": "0.32",
+		"smoothX": "0.34",
 		"smoothY": "0.27",
-		"fovx": "25",
-	    "fovy": "25",
+		"fovx": "21",
+	    "fovy": "21",
 		"comport": "COM5"
     }
 ]
