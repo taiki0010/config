@@ -6,15 +6,15 @@
 		"your_sens": "0.35",
 		"delay_recoil": "180",
 		"click_spam": "0.215",
-		"smoothX": "0.32",
+		"smoothX": "0.3",
 		"smoothY": "0.3",
 		"fovx": "40",
 	    "fovy": "40",
 		"comport": "COM7"
 		"press_fovx": "80",
 	    	"press_fovy": "40",
-		"psmooth": "0.45",
-	        "pfsmooth": "0.7",
+		"psmooth": "0.4",
+	        "pfsmooth": "0.65",
 	        "spkey": "0x01",
 	        "flkey": "0x02",
     }
