@@ -1,7 +1,7 @@
 {
 "config":[
     {
-        "monitor_width": "1440",
+        "monitor_width": "1920",
         "monitor_height": "1080",
 		"your_sens": "0.317",
 		"delay_recoil": "180",
@@ -14,7 +14,7 @@
 		"press_fovx": "80",
 	    	"press_fovy": "40",
 		"psmooth": "0.45",
-	        "pfsmooth": "0.65",
+	        "pfsmooth": "0.45",
 	        "spkey": "0xA0",
 	        "flkey": "0x02",
     }
