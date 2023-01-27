@@ -15,8 +15,8 @@
 	    	"press_fovy": "32",
 		"psmooth": "0.26",
 	        "pfsmooth": "0.5",
-	        "spkey": "0x7A",
-	        "flkey": "0x7B",
+	        "spkey": "0x55",
+	        "flkey": "0x49",
     }
 ]
 }
