@@ -11,6 +11,12 @@
 		"fovx": "32",
 	    "fovy": "32",
 		"comport": "COM5"
+		"press_fovx": "80",
+	    	"press_fovy": "40",
+		"psmooth": "0.45",
+	        "pfsmooth": "0.7",
+	        "spkey": "0x01",
+	        "flkey": "0x02",
     }
 ]
 }
