@@ -13,9 +13,9 @@
 	        "colorval": "((np.array([200, 205, 69]), np.array([30, 255, 255]))",
 		"press_fovx": "80",
 	    	"press_fovy": "40",
-		"psmooth": "0.41",
+		"psmooth": "0.45",
 	        "pfsmooth": "0.65",
-	        "spkey": "0x01",
+	        "spkey": "0xA0",
 	        "flkey": "0x02",
     }
 ]
