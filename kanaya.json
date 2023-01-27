@@ -9,7 +9,7 @@
 		"smoothX": "0.3",
 		"smoothY": "0.3",
 		"fovx": "41",
-	    "fovy": "43",
+	    "fovy": "41",
 		"comport": "COM5"
     }
 ]
