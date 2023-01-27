@@ -13,8 +13,8 @@
 		"comport": "COM5"
 		"press_fovx": "32",
 	    	"press_fovy": "32",
-		"psmooth": "0.26",
-	        "pfsmooth": "0.5",
+		"psmooth": "0.3",
+	        "pfsmooth": "0.54",
 	        "spkey": "0x55",
 	        "flkey": "0x49",
     }
