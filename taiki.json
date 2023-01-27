@@ -16,7 +16,7 @@
 		"psmooth": "0.45",
 	        "pfsmooth": "0.7",
 	        "spkey": "0x01",
-	        "flkey": "0x7B",
+	        "flkey": "0x02",
     }
 ]
 }
