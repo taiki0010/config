@@ -4,7 +4,7 @@
         "monitor_width": "1680",
         "monitor_height": "1050",
 		"your_sens": "0.264",
-		"delay_recoil": "180",
+		"delay_recoil": "180000000000000",
 		"click_spam": "0.215",
 		"smoothX": "0.26",
 		"smoothY": "0.25",
