@@ -10,7 +10,13 @@
 		"smoothY": "0.38",
 		"fovx": "16",
 	    "fovy": "16",
-		"comport": "COM7"
+		"comport": "COM7",
+		"press_fovx": "80",
+	    	"press_fovy": "40",
+		"psmooth": "0.47",
+	        "pfsmooth": "0.77",
+	        "spkey": "0x01",
+	        "flkey": "0x02",
     }
 ]
 }
