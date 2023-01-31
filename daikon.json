@@ -10,7 +10,7 @@
 		"smoothY": "0.25",
 		"fovx": "25",
 	    "fovy": "25",
-		"comport": "COM5"
+		"comport": "COM3"
 		"press_fovx": "80",
 	    	"press_fovy": "40",
 		"psmooth": "0.45",
