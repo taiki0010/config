@@ -17,6 +17,12 @@
 	        "pfsmooth": "0.5",
 	        "spkey": "0x59",
 	        "flkey": "0x49",
+		"press_fovx": "80",
+	    	"press_fovy": "40",
+		"psmooth": "0.47",
+	        "pfsmooth": "0.77",
+	        "spkey": "0x01",
+	        "flkey": "0x02",
     }
 ]
 }
